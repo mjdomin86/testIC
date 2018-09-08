@@ -1,0 +1,19 @@
+{
+  "name": "testic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjdomin86/testIC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjdomin86/testIC/issues"
+  },
+  "homepage": "https://github.com/mjdomin86/testIC#readme"
+}
